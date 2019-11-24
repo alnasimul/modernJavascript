@@ -1,0 +1,12 @@
+var a = "Hello";
+//var b = a.charAt(0);
+//var b = a.charCodeAt(1);
+//var b = a.indexOf('o');
+//var b = a.match("lo");
+//var b = a.replace('e','o');
+//var b = a.length;
+//var b = a.toUpperCase();
+//var b = a.toLowerCase();
+var c = " dhgfdAgfd ";
+var d = c.trim().toLowerCase();
+console.log(d);
