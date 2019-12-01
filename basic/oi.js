@@ -19,6 +19,7 @@ x.a = 50;
 e.c = "Hi";
 
 //deleting property in e object
+
 delete e.a;
 
 console.log(e);
