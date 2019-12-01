@@ -12,5 +12,5 @@ function generate(type){
     }
 }
 
- x = generate("plus");
+var x = generate("plus");
 console.log(x(2,3));
